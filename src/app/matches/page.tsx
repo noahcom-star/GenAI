@@ -89,7 +89,7 @@ export default function MatchesPage() {
             </h3>
             <div className="mt-2 max-w-xl text-sm text-gray-500">
               <p>
-                We're still looking for your perfect teammates. Check back soon!
+                Here&apos;s what we found based on your profile and preferences.
               </p>
             </div>
           </div>
